@@ -1,2 +1,10 @@
-/.idea
-/node_modules
+*.iml
+.idea
+.tscache
+.DS_Store
+node_modules/
+typings/
+coverage/
+test/typescript/axios.js*
+sauce_connect.log
+package-lock.json
