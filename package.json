@@ -1,5 +1,5 @@
 {
-  "name": "PolenCharityDonationAPI",
+  "name": "polencharitydonationapi",
   "version": "1.0.0",
   "description": "Sua API de doações.",
   "main": "index.js",
@@ -11,13 +11,27 @@
     "type": "git",
     "url": "git+https://github.com/Polen-Donation/PolenCharityDonationAPI.git"
   },
-  "keywords": ["charity", "OSC", "ODS", "ongs", "ngos", "corporate", "donation", "doação", "crowdfunding", "funding", "impact", "social", "giving"],
-  "author": "Polen",
-  "license": "ISC",
+  "keywords": [
+    "charity",
+    "OSC",
+    "ODS",
+    "ongs",
+    "ngos",
+    "corporate",
+    "donation",
+    "doação",
+    "crowdfunding",
+    "funding",
+    "impact",
+    "social",
+    "giving"
+  ],
+  "author": "polen_official",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Polen-Donation/PolenCharityDonationAPI/issues"
   },
-  "homepage": "https://github.com/Polen-Donation/PolenCharityDonationAPI#readme",
+  "homepage": "https://polen-donation.github.io/polen-docs/",
   "dependencies": {
     "axios": "^0.21.1"
   }
