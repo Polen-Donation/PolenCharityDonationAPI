@@ -8,8 +8,11 @@
 
 <h2 align="center">A sua API de doações.</h2>
 
-
 A instalação da PolenAPI é feita de forma simples conforme os passos descritos a seguir.
+
+## Sobre
+
+A Polen é uma empresa especializada em intermediar doações corporativas entre empresas e instituições brasileiras do terceiro setor e em gerar transparência das doações.
 
 ## Requisitos
 
